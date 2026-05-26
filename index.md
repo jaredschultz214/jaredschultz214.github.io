@@ -1,4 +1,5 @@
---- layout: default --- ## About Me 
+--- layout: default --- 
+## About Me 
 <img class="profile-picture" src="media/placeholder person.jpg"> 
 Hi I am a Master's of Science Graduate in Robotics at the University of Minnesota Twin-Cities. This is a jekyll based resume template. You can find the full source code on [GitHub]
 (https://github.com/bk2dcradle/researcher) 

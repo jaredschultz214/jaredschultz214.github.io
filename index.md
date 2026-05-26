@@ -4,30 +4,28 @@ layout: default
 
 ## About Me
 
-<table>
-<tr>
-<td width="30%" valign="top">
+<div style="display: flex; align-items: flex-start; gap: 2rem;">
 
-<img class="profile-picture" src="media/placeholder person.jpg">
-
-<p align="right">
-
-<strong>Email:</strong> foo@xyz.com<br>
-<strong>Phone:</strong> +91-123123
-
-</p>
-
-</td>
-
-<td width="70%" valign="top">
+<div style="flex: 1;">
 
 Hi I am a Master's of Science Graduate in Robotics at the University of Minnesota Twin-Cities.
 
 This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
 
-</td>
-</tr>
-</table>
+</div>
+
+<div style="width: 220px; text-align: right;">
+
+<img class="profile-picture" src="media/placeholder person.jpg" width="100%">
+
+<br><br>
+
+<strong>Email:</strong> foo@xyz.com<br>
+<strong>Phone:</strong> +91-123123
+
+</div>
+
+</div>
 
 ## Research Interest
 

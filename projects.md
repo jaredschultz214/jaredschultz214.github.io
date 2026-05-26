@@ -2,7 +2,7 @@
 <tr>
 <td width="40%">
 
-<img src="images/project1.gif" width="100%">
+<img src="media/Aruco_moving.gif" width="100%">
 
 </td>
 <td width="60%">
@@ -30,7 +30,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
 <tr>
 <td width="40%">
 
-<img src="images/project2.gif" width="100%">
+<img src="media/robot_tracking.gif" width="100%">
 
 </td>
 <td width="60%">

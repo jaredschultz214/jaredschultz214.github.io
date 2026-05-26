@@ -19,9 +19,15 @@ This is a jekyll based resume template. You can find the full source code on [Gi
 <img class="profile-picture" src="media/placeholder person.jpg">
 
 <p align="right">
-
-<strong>Email:</strong> foo@xyz.com<br>
-<strong>Phone:</strong> +91-123123
+<br>
+  
+## Contact
+Email: foo@xyz.com
+Phone: +91-123123
+## Social
+1. [Facebook](#)
+2. [Twitter](#)
+3. [Google+](#)
 
 </p>
 

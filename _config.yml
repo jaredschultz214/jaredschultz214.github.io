@@ -20,7 +20,5 @@ nav:
    link: "/JaredSchultz/"
  - name: "Resume"
    link: "media/resume.pdf"
- - name: "Contact"
-   link: "contact"
  - name: "Projects"
    link: "projects"

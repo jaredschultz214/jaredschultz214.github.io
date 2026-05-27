@@ -50,3 +50,30 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 </td>
 </tr>
 </table>
+
+<br>
+
+<table>
+<tr>
+<td width="40%">
+
+<img src="media/pbvs_tracking3.gif" width="100%">
+
+</td>
+<td width="60%">
+
+## Project 3
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+### Tech Stack
+- Python
+- OpenCV
+- ROS
+
+[GitHub Repo](#)
+
+</td>
+</tr>
+</table>

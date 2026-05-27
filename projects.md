@@ -20,8 +20,8 @@ layout: default
                 <li>Implemented kinematics, self-motion, and path planning onto a hyper-redundant robot </li>
             </ul>
             <a href="https://github.com/jaredschultz214/hyper-redundant-robot">
-                <i class="fa fa-github" aria-hidden="true"></i> Github </a> <br>
-            </a>
+                <i class="fa fa-github" aria-hidden="true"></i> Github
+            </a> 
         </td>
     </tr>
 </table>
@@ -47,7 +47,7 @@ layout: default
                 <li>Achieved 98% classification accuracy and a full loop time of under 3 milliseconds, successfully fulfilling the design requirements set by our client.</li>
             </ul>
             <a href="https://github.com/jaredschultz214/North-Star-2025-CV">
-                <i class="fa fa-github" aria-hidden="true"></i> Github </a> <br>
+                <i class="fa fa-github" aria-hidden="true"></i> Github 
             </a>
         </td>
     </tr>
@@ -75,7 +75,7 @@ layout: default
                 <li>Developed and debugged a custom position-based visual servoing algorithm to allow for dynamic object tracking</li>
             </ul>
             <a href="https://github.com/jaredschultz214/Jacobian_PBVS">
-                <i class="fa fa-github" aria-hidden="true"></i> Github </a> <br>
+                <i class="fa fa-github" aria-hidden="true"></i> Github
             </a>
         </td>
     </tr>
@@ -146,10 +146,10 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
                 <li>Organize and lead meetings, delegating tasks to team members to ensure adherence to the design schedule.</li>
             </ul>
             <a href="https://studentrobotics.umn.edu/our-projects">
-                Team website </a> <br>
-            </a>
+                Team website
+            </a> 
             <a href="https://www.youtube.com/@umnrobotics">
-                <i class="fa fa-youtube" aria-hidden="true"></i> Youtube </a> <br>
+                <i class="fa fa-youtube" aria-hidden="true"></i> Youtube
             </a>
         </td>
     </tr>

@@ -30,7 +30,7 @@
 <table>
     <tr>
         <td width="40%" valign="top">
-            <img src="media/Group_picture_by_the_colorado_sign_1.1.1.jpg" width="100%">
+            <img src="media/placeholder picture.png" width="100%">
         </td>
         <td width="60%" valign="top">
             <div style="display: flex; justify-content: space-between; align-items: baseline;">
@@ -46,7 +46,7 @@
             </em>
             <br>
                 description
-            <br>
+            <br><br>
             <a href="a">
                 paper
             </a>
@@ -60,7 +60,7 @@
 <table>
     <tr>
         <td width="40%" valign="top">
-            <img src="media/Group_picture_by_the_colorado_sign_1.1.1.jpg" width="100%">
+            <img src="media/placeholder picture.png" width="100%">
         </td>
         <td width="60%" valign="top">
             <div style="display: flex; justify-content: space-between; align-items: baseline;">
@@ -74,7 +74,7 @@
             <em>
                 Pin-Hao Cheng, Ronak Narkhede, Matt Rajala, Jared Schultz, Nathan Harbinson, Samuel Fisher, Nitish Poojari, Sharva Khandagale, Alex Berg, Keara Berlin, Adam Imdieke, Michael Feldkamp, Scott Frushour, Kaustubh Patil, Mark Ashby, William Peine, Sean L. Moen, Andrew Grande, Karthik Desingh, Timothy M. Kowalewski.
             </em>
-            <br>
+            <br><br>
                 description
             <br>
             <a href="a">

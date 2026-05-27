@@ -103,8 +103,8 @@ layout: default
                 </span>
             </div>
             <ul>
-                <li>Using a UR5 arm, simulate industrial pick-and-place tasks in a minimal cycle time </li>
-                <li>Implemented vision algorithms to allow the robot to recognize tools </li>
+                <li>Using a UR5 arm, an industrial pick-and-place task was programmed and optimized to run in a minimal cycle time </li>
+                <li>Programmed a CNN CV model allowing the UR5 arm to classify tools on a workspace and put them in their assigned buckets </li>
             </ul>
             <a href="https://github.com/jaredschultz214/UR5_operation">
                 <i class="fa fa-github" aria-hidden="true"></i> Github

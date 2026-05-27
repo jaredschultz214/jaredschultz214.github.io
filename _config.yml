@@ -18,6 +18,8 @@ sass:
 nav:
  - name: "About"
    link: "/JaredSchultz/"
+- name: "Research and Papers"
+   link: "research-and-papers"
  - name: "Projects"
    link: "projects"
  - name: "Resume"

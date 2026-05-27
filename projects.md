@@ -106,7 +106,7 @@ layout: default
                 <li>Using a UR5 arm, simulate industrial pick-and-place tasks in a minimal cycle time </li>
                 <li>Implemented vision algorithms to allow the robot to recognize tools </li>
             </ul>
-            <a href="https://github.com/jaredschultz214/Jacobian_PBVS">
+            <a href="https://github.com/jaredschultz214/UR5_operation">
                 <i class="fa fa-github" aria-hidden="true"></i> Github
             </a>
         </td>

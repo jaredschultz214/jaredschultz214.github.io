@@ -29,11 +29,14 @@ layout: default
         <br><br>
       </div>
     </td>
-    <td style="width: 30%; vertical-align: middle; border: none; text-align: center;">
-      <img class="profile-picture" src="media/IMG_20240812_110136930_HDR.jpg" style="width: 100%; height: auto; border-radius: 10%; margin-top: 15px;">
-    </td>
-    <td style="width: 30%; vertical-align: middle; border: none; text-align: center;">
-      <img class="profile-picture" src="media/DSCN9723.jpg" style="width: 100%; height: auto; border-radius: 10%; margin-top: 15px;">
-    </td>
-  </tr>
+        <td style="width: 30%; vertical-align: middle; border: none; text-align: center;">
+        <img class="profile-picture"
+            src="media/IMG_20240812_110136930_HDR.jpg"
+            style="width: 100%; height: auto; border-radius: 10%; margin-top: 15px;">
+        <br><br>
+        <img class="profile-picture"
+            src="media/DSCN9723.jpg"
+            style="width: 100%; height: auto; border-radius: 10%;">
+        </td>
+    </tr>
 </table>

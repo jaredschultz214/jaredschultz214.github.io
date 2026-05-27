@@ -82,12 +82,16 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 <table>
 <tr>
-<td width="40%" valign="top">
 
-<div style="display: flex; gap: 10px;">
+<td width="40%" valign="top" style="border: none;">
 
-<img src="media/flashlight_assembly.gif" width="50%">
-<img src="media/tool_sorting.gif" width="50%">
+<div style="display: flex; gap: 10px; width: 100%;">
+
+  <img src="media/flashlight_assembly.gif"
+       style="width: 48%; height: auto; object-fit: contain;">
+
+  <img src="media/tool_sorting.gif"
+       style="width: 48%; height: auto; object-fit: contain;">
 
 </div>
 

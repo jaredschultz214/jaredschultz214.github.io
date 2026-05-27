@@ -23,8 +23,6 @@ B.Sc in Computer engineering @ University of Minnesota <br>
       <div style="text-align: left;">
         Hello! I am Jared Schultz, a graduate student in the <b>Medical Robotics and Devices Lab</b> working with <a href="https://cse.umn.edu/me/tim-kowalewski">Professor Timothy Kowaleski</a>. My current research is on the propulsion of brain catheters <b>making telerobotic stroke thrombectomy accessible</b> through surgical robots. 
         <br><br>
-        Try out the <a href="https://alpha.stroke-robot.org/">live telerobotic demo here</a>.
-        <br><br>
         When I am not in the lab, I can be found outside on my bike or camping up north. 
         <br><br>
       </div>

@@ -1,8 +1,8 @@
 <table>
     <tr>
         <td width="40%" valign="top">
-            <img src="media/Group_picture_by_the_colorado_sign_1.1.1.jpg" width="100%">
-            <img src="media/IMG_3277.jpg" width="100%">
+            <img src="media/Telerobotics_demo.gif" width="100%">
+            <img src="media/IMG_20251009_152239819_HDR.jpg" width="100%">
         </td>
         <td width="60%" valign="top">
             <div style="display: flex; justify-content: space-between; align-items: baseline;">
@@ -19,13 +19,7 @@
                 <li>Design, manufacture, and test iterative robot prototypes, using results to verify and inform design revisions.</li>
                 <li>Design and implement a motor control architecture enabling precise speed and position control of the 3-DOF rolling contact mechanism.</li>
             </ul>
-            <a href="https://studentrobotics.umn.edu/our-projects">
-                Team website
-            </a> 
-            <br>
-            <a href="https://www.youtube.com/@umnrobotics">
-                <i class="fa fa-youtube" aria-hidden="true"></i> Youtube
-            </a>
+        Try out the <a href="https://alpha.stroke-robot.org/">live telerobotic demo here</a>.
         </td>
     </tr>
 </table>

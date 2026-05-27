@@ -77,3 +77,58 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 </td>
 </tr>
 </table>
+
+
+
+<table>
+<tr>
+<td width="40%">
+
+<img src="media/flashlight_assembly.gif" width="50%">
+<img src="media/tool_sorting.gif" width="50%">
+
+</td>
+<td width="60%">
+
+## Project 4
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+### Tech Stack
+- Python
+- OpenCV
+- ROS
+
+[GitHub Repo](#)
+
+</td>
+</tr>
+</table>
+
+
+<table>
+<tr>
+<td width="40%">
+
+<img src="media/Group_picture_by_the_colorado_sign_1.1.1.jpg" width="50%">
+<img src="media/IMG_3277.jpg" width="50%">
+
+</td>
+<td width="60%">
+
+## Project 4
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+### Tech Stack
+- Python
+- OpenCV
+- ROS
+
+[GitHub Repo](#)
+
+</td>
+</tr>
+</table>

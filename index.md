@@ -7,8 +7,8 @@ layout: default
   <tr>
     <td style="width: 70%; vertical-align: middle; border: none; padding-right: 20px;">
       <div class="profile-doc">
-		M.Sc @ University of Minnesota <br>
-        Robotics<br>
+		M.Sc in Robotics & Minor in Mechanical Engineering @ University of Minnesota <br>
+        B.Sc in Computer engineering @ University of Minnesota <br>
 		<br> 
 		<a href="mailto:schu4422@umn.edu">
 			<i class="fa fa-envelope" aria-hidden="true"></i> schu4422@umn.edu</a> <br>
@@ -28,7 +28,7 @@ layout: default
       </div>
     </td>
     <td style="width: 30%; vertical-align: middle; border: none; text-align: center;">
-      <img class="profile-picture" src="me.jpeg" style="width: 100%; height: auto; border-radius: 10%; margin-top: 15px;">
+      <img class="profile-picture" src="media/IMG_20240812_110136930_HDR.jpg" style="width: 100%; height: auto; border-radius: 10%; margin-top: 15px;">
     </td>
   </tr>
 </table>

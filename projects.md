@@ -54,26 +54,40 @@ Achieved 98% classification accuracy and a full loop time of under 3 millisecond
 </tr>
 </table>
 
+
+
+
 <table>
-<tr>
-<td width="40%">
-
-<img src="media/pbvs_tracking3.gif" width="100%">
-
-</td>
-<td width="60%">
-
-## Robot Vision Final Project	9/2024 – 12/2024
-
-Designed and built from scratch an autonomous 6 DOF arm able to simulate industrial pick-and-place tasks
-Implemented Vision algorithms to allow the robot to recognise specific objects
-Developed and debugged a custom position-based visual servoing algorithm to allow for dynamic object tracking.
-
-[GitHub Repo](https://github.com/jaredschultz214/Jacobian_PBVS)
-
-</td>
-</tr>
+    <tr>
+        <td width="40%" valign="top">
+            <img src="media/pbvs_tracking3.gif" width="100%">
+        </td>
+        <td width="60%" valign="top">
+            <div style="display: flex; justify-content: space-between; align-items: baseline;">
+                <strong style="font-size: 1.2em;">
+                    Robot Vision Final Project
+                </strong>
+                <span style="white-space: nowrap;">
+                    9/2024 – 12/2024
+                </span>
+            </div>
+            <br>
+            <ul>
+                <li>Designed and built from scratch an autonomous 6 DOF arm able to simulate industrial pick-and-place tasks</li>
+                <li>Implemented vision algorithms to allow the robot to recognize specific objects</li>
+                <li>Developed and debugged a custom position-based visual servoing algorithm to allow for dynamic object tracking</li>
+            </ul>
+            <a href="https://github.com/jaredschultz214/Jacobian_PBVS">
+                <i class="fa-brands fa-github"></i>
+                GitHub Repo
+            </a>
+        </td>
+    </tr>
 </table>
+
+
+
+
 
 <table>
 <tr>

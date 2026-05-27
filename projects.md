@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <table>
 <tr>
 <td width="40%">
@@ -24,8 +28,6 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
 </tr>
 </table>
 
-<br>
-
 <table>
 <tr>
 <td width="40%">
@@ -35,23 +37,22 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
 </td>
 <td width="60%">
 
-## Another Project
+## Computer Vision and ML system for the Robomaster Project	1/2025 – 6/2025
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Created a “product” that identifies, tracks, and predicts the movement of robots in a moving-camera, moving-target environment. 
+Optimized the developed solution to run in real time on limited hardware while preserving all functionality. 
+Achieved 98% classification accuracy and a full loop time of under 3 milliseconds, successfully fulfilling the design requirements set by our client.
+
 
 ### Tech Stack
 - Python
 - OpenCV
-- ROS
 
-[GitHub Repo](#)
+[GitHub Repo](https://github.com/jaredschultz214/North-Star-2025-CV)
 
 </td>
 </tr>
 </table>
-
-<br>
 
 <table>
 <tr>
@@ -62,23 +63,17 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 </td>
 <td width="60%">
 
-## Project 3
+## Robot Vision Final Project	9/2024 – 12/2024
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Designed and built from scratch an autonomous 6 DOF arm able to simulate industrial pick-and-place tasks
+Implemented Vision algorithms to allow the robot to recognise specific objects
+Developed and debugged a custom position-based visual servoing algorithm to allow for dynamic object tracking.
 
-### Tech Stack
-- Python
-- OpenCV
-- ROS
-
-[GitHub Repo](#)
+[GitHub Repo](https://github.com/jaredschultz214/Jacobian_PBVS)
 
 </td>
 </tr>
 </table>
-
-
 
 <table>
 <tr>
@@ -115,7 +110,6 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 </tr>
 </table>
 
-
 <table>
 <tr>
 <td width="40%">
@@ -137,6 +131,33 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 - ROS
 
 [GitHub Repo](#)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="40%">
+
+<img src="media/quadrotor_move.gif" width="100%">
+
+</td>
+<td width="60%">
+
+## Autonomous Quadrotor for Education	12/2023 – 5/2024
+
+Assisted a professor in exploratory research and completed the initial steps in creating a new class for autonomous aerial flight and tracking.
+Communicated with software vendors to troubleshoot and resolve system bugs.
+Implemented signal processing and path planning algorithms in a pipeline to allow the real-time position of the drone to be used to follow a path or object autonomously.
+
+
+### Features
+- Feature one
+- Feature two
+- Feature three
+
+[View Project](#)
 
 </td>
 </tr>

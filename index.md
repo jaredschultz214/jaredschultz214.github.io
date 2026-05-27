@@ -3,12 +3,12 @@ layout: default
 ---
 
 ## About Me
+M.Sc in Robotics & Minor in Mechanical Engineering @ University of Minnesota <br>
+B.Sc in Computer engineering @ University of Minnesota <br>
 <table style="border: none; background: transparent; width: 100%;">
   <tr>
     <td style="width: 70%; vertical-align: middle; border: none; padding-right: 20px;">
       <div class="profile-doc">
-		M.Sc in Robotics & Minor in Mechanical Engineering @ University of Minnesota <br>
-        B.Sc in Computer engineering @ University of Minnesota <br>
 		<br> 
 		<a href="mailto:schu4422@umn.edu">
 			<i class="fa fa-envelope" aria-hidden="true"></i> schu4422@umn.edu</a> <br>
@@ -36,7 +36,7 @@ layout: default
         <br><br>
         <img class="profile-picture"
             src="media/DSCN9723.jpg"
-            style="width: 100%; height: auto; border-radius: 10%;">
+            style="width: 100%; height: auto; border-radius: 10%;margin-top: 10px;">
         </td>
     </tr>
 </table>

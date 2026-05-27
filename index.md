@@ -5,15 +5,11 @@ layout: default
 ## About Me
 
 M.Sc in Robotics & Minor in Mechanical Engineering @ University of Minnesota <br>
-B.Sc in Computer Engineering @ University of Minnesota <br>
-## About Me
-M.Sc in Robotics & Minor in Mechanical Engineering @ University of Minnesota <br>
 B.Sc in Computer engineering @ University of Minnesota <br>
 <table style="border: none; background: transparent; width: 100%;">
   <tr>
     <td style="width: 70%; vertical-align: middle; border: none; padding-right: 20px;">
       <div style="text-align: left;">
-    <td style="width: 70%; vertical-align: top; border: none; padding-right: 20px;">
         I am a robotics engineer and graduate researcher in the Medical Robotics and Devices Lab at the University of Minnesota, where I work with <a href="https://cse.umn.edu/me/tim-kowalewski">Professor Timothy Kowalewski</a>. My current research focuses on robotic propulsion systems for neurovascular catheters with the goal of enabling accessible telerobotic stroke thrombectomy. What draws me to medical robotics is the combination of meaningful human impact, difficult multidisciplinary engineering problems, and the pace of innovation at the cutting edge of the field. Growing up with a mother who worked as a nurse, I have always wanted to contribute to technologies that can directly improve patient outcomes and access to care.
         <br><br>
         My role in the lab centers on the mechanical development and validation of robotic systems. I am responsible for the design, manufacturing, and assembly of major mechanical subsystems, including work involving patent-pending technology that cannot yet be publicly shared. I also develop and execute mechanical validation testing to characterize force and torque capabilities and ensure reliable system performance under realistic operating conditions.
@@ -26,18 +22,6 @@ B.Sc in Computer engineering @ University of Minnesota <br>
         <br><br>
         Outside of engineering, I enjoy biking, gardening, pottery, camping, and spending time outdoors. Time outdoors, namely camping and wilderness travel, has remained important to me since my time in Boy Scouts. For me, being outdoors provides an opportunity to disconnect from constant expectations, reset creatively, and slow down long enough to reflect and recharge. 
         <br><br>
-        <div class="profile-doc">
-		<br> 
-		<a href="mailto:schu4422@umn.edu">
-			<i class="fa fa-envelope" aria-hidden="true"></i> schu4422@umn.edu</a> <br>
-		<a href="mailto:jaredschultz214@gmail.com">
-			<i class="fa fa-envelope" aria-hidden="true"></i> jaredschultz214@gmail.com</a> <br>
-		<a href="https://github.com/jaredschultz214">
-			<i class="fa fa-github" aria-hidden="true"></i> Github </a> <br>
-		<a href="https://www.linkedin.com/in/jared-schultz-190aa3222/">
-			<i class="fa fa-linkedin" aria-hidden="true"></i> LinkedIn </a> <br>
-			<br>
-	  </div>
       </div>
     </td>
     <td style="width: 30%; vertical-align: middle; border: none; text-align: center;">
@@ -48,6 +32,18 @@ B.Sc in Computer engineering @ University of Minnesota <br>
         <img class="profile-picture"
             src="media/DSCN9723.jpg"
             style="width: 100%; height: auto; border-radius: 10%;margin-top: 10px;">
+        <div class="profile-doc">
+            <br> 
+            <a href="mailto:schu4422@umn.edu">
+                <i class="fa fa-envelope" aria-hidden="true"></i> schu4422@umn.edu</a> <br>
+            <a href="mailto:jaredschultz214@gmail.com">
+                <i class="fa fa-envelope" aria-hidden="true"></i> jaredschultz214@gmail.com</a> <br>
+            <a href="https://github.com/jaredschultz214">
+                <i class="fa fa-github" aria-hidden="true"></i> Github </a> <br>
+            <a href="https://www.linkedin.com/in/jared-schultz-190aa3222/">
+                <i class="fa fa-linkedin" aria-hidden="true"></i> LinkedIn </a> <br>
+            <br>
+	    </div>
     </td>
     </tr>
 </table>

@@ -8,7 +8,7 @@ M.Sc in Robotics & Minor in Mechanical Engineering @ University of Minnesota <br
 B.Sc in Computer engineering @ University of Minnesota <br>
 <table style="border: none; background: transparent; width: 100%;">
   <tr>
-    <td style="width: 70%; vertical-align: middle; border: none; padding-right: 20px;">
+    <td style="width: 70%; vertical-align: top; border: none; padding-right: 20px;">
       <div style="text-align: left;">
         I am a robotics engineer and graduate researcher in the Medical Robotics and Devices Lab at the University of Minnesota, where I work with <a href="https://cse.umn.edu/me/tim-kowalewski">Professor Timothy Kowalewski</a>. My current research focuses on robotic propulsion systems for neurovascular catheters with the goal of enabling accessible telerobotic stroke thrombectomy. What draws me to medical robotics is the combination of meaningful human impact, difficult multidisciplinary engineering problems, and the pace of innovation at the cutting edge of the field. Growing up with a mother who worked as a nurse, I have always wanted to contribute to technologies that can directly improve patient outcomes and access to care.
         <br><br>
@@ -26,11 +26,15 @@ B.Sc in Computer engineering @ University of Minnesota <br>
     </td>
     <td style="width: 30%; vertical-align: middle; border: none; text-align: center;">
         <img class="profile-picture"
-            src="media/IMG_20240812_110136930_HDR.jpg"
-            style="width: 100%; height: auto; border-radius: 10%; margin-top: 15px;">
+            src="media/DSCN9723.jpg"
+            style="width: 100%; height: auto; border-radius: 10%; margin-top: 10px;">
         <br><br>
         <img class="profile-picture"
-            src="media/DSCN9723.jpg"
+            src="media/IMG_20240812_110136930_HDR.jpg"
+            style="width: 100%; height: auto; border-radius: 10%;margin-top: 10px;">
+        <br><br>
+        <img class="profile-picture"
+            src="media/DSCN6634"
             style="width: 100%; height: auto; border-radius: 10%;margin-top: 10px;">
         <div class="profile-doc">
             <br> 

@@ -5,31 +5,6 @@ layout: default
 <table>
     <tr>
         <td width="40%" valign="top">
-            <img src="media/Aruco_moving.gif" width="100%">
-        </td>
-        <td width="60%" valign="top">
-            <div style="display: flex; justify-content: space-between; align-items: baseline;">
-                <strong style="font-size: 1.2em;">
-                    hyper-redundant control and dynamics
-                </strong>
-                <span style="white-space: nowrap;">
-                    9/2024 – 12/2024
-                </span>
-            </div>
-            <ul>
-                <li>Implemented kinematics, self-motion, and path planning onto a hyper-redundant robot </li>
-            </ul>
-            <a href="https://github.com/jaredschultz214/hyper-redundant-robot">
-                <i class="fa fa-github" aria-hidden="true"></i> Github
-            </a> 
-        </td>
-    </tr>
-</table>
-
-
-<table>
-    <tr>
-        <td width="40%" valign="top">
             <img src="media/robot_tracking.gif" width="100%">
         </td>
         <td width="60%" valign="top">
@@ -52,6 +27,35 @@ layout: default
         </td>
     </tr>
 </table>
+
+
+
+<table>
+    <tr>
+        <td width="40%" valign="top">
+            <img src="media/Aruco_moving.gif" width="100%">
+        </td>
+        <td width="60%" valign="top">
+            <div style="display: flex; justify-content: space-between; align-items: baseline;">
+                <strong style="font-size: 1.2em;">
+                    hyper-redundant robot control and dynamics
+                </strong>
+                <span style="white-space: nowrap;">
+                    9/2024 – 12/2024
+                </span>
+            </div>
+            <ul>
+                <li>Implemented kinematics, self-motion, and path planning onto a hyper-redundant robot </li>
+                <li>Utalizing ArUco markers, map from real world corrdinates through screen coordinates to endeffector coordinates</li>
+            </ul>
+            <a href="https://github.com/jaredschultz214/hyper-redundant-robot">
+                <i class="fa fa-github" aria-hidden="true"></i> Github
+            </a> 
+        </td>
+    </tr>
+</table>
+
+
 
 
 
@@ -120,6 +124,32 @@ layout: default
 <table>
     <tr>
         <td width="40%" valign="top">
+            <img src="media/quadrotor_move.gif" width="100%">
+        </td>
+        <td width="60%" valign="top">
+            <div style="display: flex; justify-content: space-between; align-items: baseline;">
+                <strong style="font-size: 1.2em;">
+                    Autonomous Quadrotor for Education
+                </strong>
+                <span style="white-space: nowrap;">
+                    12/2023 – 5/2024
+                </span>
+            </div>
+            <ul>
+                <li>Assisted a professor in exploratory research and completed the initial steps in creating a new class for autonomous aerial flight and tracking.</li>
+                <li>Communicated with software vendors to troubleshoot and resolve system bugs.</li>
+                <li>Implemented signal processing and path planning algorithms in a pipeline to allow the real-time position of the drone to be used to follow a path or object autonomously.</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+
+
+
+
+<table>
+    <tr>
+        <td width="40%" valign="top">
             <img src="media/Group_picture_by_the_colorado_sign_1.1.1.jpg" width="100%">
             <img src="media/IMG_3277.jpg" width="100%">
         </td>
@@ -147,32 +177,6 @@ layout: default
             <a href="https://www.youtube.com/@umnrobotics">
                 <i class="fa fa-youtube" aria-hidden="true"></i> Youtube
             </a>
-        </td>
-    </tr>
-</table>
-
-
-
-
-<table>
-    <tr>
-        <td width="40%" valign="top">
-            <img src="media/quadrotor_move.gif" width="100%">
-        </td>
-        <td width="60%" valign="top">
-            <div style="display: flex; justify-content: space-between; align-items: baseline;">
-                <strong style="font-size: 1.2em;">
-                    Autonomous Quadrotor for Education
-                </strong>
-                <span style="white-space: nowrap;">
-                    12/2023 – 5/2024
-                </span>
-            </div>
-            <ul>
-                <li>Assisted a professor in exploratory research and completed the initial steps in creating a new class for autonomous aerial flight and tracking.</li>
-                <li>Communicated with software vendors to troubleshoot and resolve system bugs.</li>
-                <li>Implemented signal processing and path planning algorithms in a pipeline to allow the real-time position of the drone to be used to follow a path or object autonomously.</li>
-            </ul>
         </td>
     </tr>
 </table>

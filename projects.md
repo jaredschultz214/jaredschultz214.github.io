@@ -83,42 +83,37 @@ layout: default
 
 
 
-
-
 <table>
-<tr>
-
-<td width="40%" valign="top" style="border: none;">
-
-<div style="display: flex; gap: 10px; width: 100%;">
-
-  <img src="media/flashlight_assembly.gif"
-       style="width: 48%; height: auto; object-fit: contain;">
-
-  <img src="media/tool_sorting.gif"
-       style="width: 48%; height: auto; object-fit: contain;">
-
-</div>
-
-</td>
-
-<td width="60%" valign="top">
-
-## Project 4
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-### Tech Stack
-- Python
-- OpenCV
-- ROS
-
-[GitHub Repo](#)
-
-</td>
-</tr>
+    <tr>
+        <td width="40%" valign="top" style="border: none;">
+            <div style="display: flex; gap: 10px; width: 100%;">
+                <img src="media/flashlight_assembly.gif"
+                    style="width: 48%; height: auto; object-fit: contain;">
+                <img src="media/tool_sorting.gif"
+                    style="width: 48%; height: auto; object-fit: contain;">
+            </div>
+        </td>
+        <td width="60%" valign="top">
+            <div style="display: flex; justify-content: space-between; align-items: baseline;">
+                <strong style="font-size: 1.2em;">
+                    UR5 Pick and Place
+                </strong>
+                <span style="white-space: nowrap;">
+                    1/2024 – 6/2024
+                </span>
+            </div>
+            <ul>
+                <li>Using a UR5 arm, simulate industrial pick-and-place tasks in a minimal cycle time </li>
+                <li>Implemented vision algorithms to allow the robot to recognize tools </li>
+            </ul>
+            <a href="https://github.com/jaredschultz214/Jacobian_PBVS">
+                <i class="fa fa-github" aria-hidden="true"></i> Github
+            </a>
+        </td>
+    </tr>
 </table>
+
+
 
 
 
@@ -148,6 +143,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
             <a href="https://studentrobotics.umn.edu/our-projects">
                 Team website
             </a> 
+            <br>
             <a href="https://www.youtube.com/@umnrobotics">
                 <i class="fa fa-youtube" aria-hidden="true"></i> Youtube
             </a>

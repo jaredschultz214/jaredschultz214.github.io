@@ -21,13 +21,21 @@ This is a jekyll based resume template. You can find the full source code on [Gi
 <p align="right">
 <br>
   
-## Contact
-Email: foo@xyz.com
-Phone: +91-123123
-## Social
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+<div class="profile-doc">
+	<p>MS Graduate @ University of Minnesota Twin-Cities</p>
+    <ul class="contact-list">
+        <li>
+            <a href="mailto:jaredschultz214@gmail.com">
+                <i class="fa fa-envelope" aria-hidden="true"></i> jaredschultz214@gmail.com
+            </a>
+        </li>
+        <li>
+            <a href="https://github.com/jaredschultz214">
+				<i class="fa fa-github" aria-hidden="true"></i> GitHub
+            </a>
+        </li>
+    </ul>
+</div>
 
 </p>
 

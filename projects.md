@@ -82,13 +82,18 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 <table>
 <tr>
-<td width="40%">
+<td width="40%" valign="top">
+
+<div style="display: flex; gap: 10px;">
 
 <img src="media/flashlight_assembly.gif" width="50%">
 <img src="media/tool_sorting.gif" width="50%">
 
+</div>
+
 </td>
-<td width="60%">
+
+<td width="60%" valign="top">
 
 ## Project 4
 
@@ -111,13 +116,13 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 <tr>
 <td width="40%">
 
-<img src="media/Group_picture_by_the_colorado_sign_1.1.1.jpg" width="50%">
-<img src="media/IMG_3277.jpg" width="50%">
+<img src="media/Group_picture_by_the_colorado_sign_1.1.1.jpg" width="100%">
+<img src="media/IMG_3277.jpg" width="100%">
 
 </td>
 <td width="60%">
 
-## Project 4
+## Project 5
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.

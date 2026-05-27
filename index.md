@@ -24,7 +24,7 @@ B.Sc in Computer engineering @ University of Minnesota <br>
         <br><br>
       </div>
     </td>
-    <td style="width: 30%; vertical-align: middle; border: none; text-align: center;">
+    <td style="width: 30%; vertical-align: top; border: none; text-align: center;">
         <img class="profile-picture"
             src="media/DSCN9723.jpg"
             style="width: 100%; height: auto; border-radius: 10%; margin-top: 10px;">
@@ -34,7 +34,7 @@ B.Sc in Computer engineering @ University of Minnesota <br>
             style="width: 100%; height: auto; border-radius: 10%;margin-top: 10px;">
         <br><br>
         <img class="profile-picture"
-            src="media/DSCN6634"
+            src="media/DSCN6634.jpg"
             style="width: 100%; height: auto; border-radius: 10%;margin-top: 10px;">
         <div class="profile-doc">
             <br> 

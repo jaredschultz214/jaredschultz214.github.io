@@ -64,6 +64,8 @@
             <ul id="navlist" class="alignable pull-right navbar-ul">
             {% for x in site.nav %}
                 <li class="alignable pull-left nav-list">
+                    {% assign active = false %}
+                    
                     {% assign current_url = page.url
                         | remove_first: "/"
                         | remove: ".html"

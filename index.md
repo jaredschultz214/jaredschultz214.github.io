@@ -1,6 +1,48 @@
 ---
 layout: default
 ---
+<style>
+	.lightbox {
+	    display: none;
+	    position: fixed;
+	    inset: 0;
+	    background: rgba(0,0,0,0.8);
+	    z-index: 1000;
+	    text-align: center;
+	}
+	
+	.lightbox:target {
+	    display: flex;
+	    align-items: center;
+	    justify-content: center;
+	}
+	
+	.lightbox img {
+	    max-width: 90vw;
+	    max-height: 90vh;
+	    border-radius: 10px;
+	}
+	
+	.thumbnail {
+	    cursor: pointer;
+	    transition: transform 0.2s;
+	}
+	
+	.thumbnail:hover {
+	    transform: scale(1.03);
+	}
+</style>
+<a href="#img1">
+    <img class="thumbnail"
+         src="media/DSCN9723.jpg"
+         style="width:100%; height:auto; border-radius:10%;">
+</a>
+<div id="img1" class="lightbox">
+    <a href="#">
+        <img src="media/DSCN9723.jpg">
+    </a>
+</div>
+
 
 ## About Me
 
@@ -17,8 +59,6 @@ B.Sc in Computer engineering @ University of Minnesota <br>
         Outside of medical robotics, I have broad interests across robotics as a whole, including computer vision, feedback and control systems, autonomous systems, and mechanical robot design. I have wanted to work in robotics for as long as I can remember, starting with building projects from Legos and surplus motors with my dad, continuing through Boy Scouts robotics merit badge, and eventually joining my high school robotics team as a freshman. Today, I continue pursuing that passion through both research and competitive robotics.
         <br><br>
         Much of my time outside of research is spent in the Northstar Robotics lab, where I helped found the team and previously served as both Mechanical Lead and Computer Vision Lead. Our competition robots compete in a fast-paced first-person robotic combat environment similar to airsoft or paintball. Over the past three years, I have led the design of the robot turret system, balancing center of mass and rotational inertia requirements to achieve stable, responsive pitch and yaw control without oscillation or instability. I also developed the 2025 vision system used for autonomous opponent tracking to improve targeting accuracy during competition. Our team placed 9th out of 24 teams in both years we have competed so far. These projects have strengthened my ability to rapidly prototype and iterate, anticipate failure cases before fabrication, and work effectively under aggressive deadlines and technical pressure.
-        <br><br>
-        My technical background spans software, electrical, and mechanical engineering disciplines. My areas of experience include computer vision, machine learning, AI, control theory, path planning, Kalman filtering, embedded systems, CAD and mechanical design, rapid prototyping, and robotics software development using ROS. I enjoy working across disciplinary boundaries and seeing projects through from initial concept to fully functioning systems.
         <br><br>
         Outside of engineering, I enjoy biking, gardening, pottery, camping, and spending time outdoors. Time outdoors, namely camping and wilderness travel, has remained important to me since my time in Boy Scouts. For me, being outdoors provides an opportunity to disconnect from constant expectations, reset creatively, and slow down long enough to reflect and recharge. 
         <br><br>

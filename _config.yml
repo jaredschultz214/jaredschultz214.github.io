@@ -8,8 +8,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/JaredSchultz"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://github.com/ankitsultana"
+footer_text: "Template credit: Ankit Sultana"
 
 sass:
     style: compressed

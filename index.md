@@ -32,16 +32,6 @@ layout: default
 	    transform: scale(1.03);
 	}
 </style>
-<a href="#img1">
-    <img class="thumbnail"
-         src="media/DSCN9723.jpg"
-         style="width:100%; height:auto; border-radius:10%;">
-</a>
-<div id="img1" class="lightbox">
-    <a href="#">
-        <img src="media/DSCN9723.jpg">
-    </a>
-</div>
 
 
 ## About Me
@@ -65,17 +55,38 @@ B.Sc in Computer engineering @ University of Minnesota <br>
       </div>
     </td>
     <td style="width: 30%; vertical-align: top; border: none; text-align: center;">
-        <img class="profile-picture"
-            src="media/DSCN9723.jpg"
-            style="width: 100%; height: auto; border-radius: 10%; margin-top: 10px;">
+		<a href="#img1">
+		    <img class="thumbnail"
+		         src="media/DSCN9723.jpg"
+		         style="width:100%; height:auto; border-radius:10%;">
+		</a>
+		<div id="img1" class="lightbox">
+		    <a href="#">
+		        <img src="media/DSCN9723.jpg">
+		    </a>
+		</div>
         <br><br>
-        <img class="profile-picture"
-            src="media/IMG_20240812_110136930_HDR.jpg"
-            style="width: 100%; height: auto; border-radius: 10%;margin-top: 10px;">
+		<a href="#img2">
+		    <img class="thumbnail"
+		         src="media/IMG_20240812_110136930_HDR.jpg"
+		         style="width:100%; height:auto; border-radius:10%;">
+		</a>
+		<div id="img1" class="lightbox">
+		    <a href="#">
+		        <img src="media/IMG_20240812_110136930_HDR.jpg">
+		    </a>
+		</div>
         <br><br>
-        <img class="profile-picture"
-            src="media/DSCN6634.jpg"
-            style="width: 100%; height: auto; border-radius: 10%;margin-top: 10px;">
+		<a href="#img2">
+		    <img class="thumbnail"
+		         src="media/DSCN6634.jpg"
+		         style="width:100%; height:auto; border-radius:10%;">
+		</a>
+		<div id="img1" class="lightbox">
+		    <a href="#">
+		        <img src="media/IMG_20240812_110136930_HDR.jpg">
+		    </a>
+		</div>
         <div class="profile-doc">
             <br> 
             <a href="mailto:schu4422@umn.edu">

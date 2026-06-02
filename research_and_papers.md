@@ -2,7 +2,7 @@
     <tr>
         <td width="40%" valign="top">
             <img src="media/Telerobotics_demo.gif" width="100%">
-            <img src="media/IMG_20251009_152239819_HDR.jpg" width="100%">
+            <img src="media/IMG_20251009_152239819_HDR_lowQ.jpg" width="100%">
         </td>
         <td width="60%" valign="top">
             <div style="display: flex; justify-content: space-between; align-items: baseline;">

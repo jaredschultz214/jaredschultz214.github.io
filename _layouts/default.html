@@ -72,8 +72,8 @@
                     {% elsif page.url == x.link %}
                         {% assign active = true %}
                     {% endif %}
-                    <a href="{{ x.link }}"
-                    class="{% if active %}active{% endif %}">
+                    <a href="{{ site.baseurl }}{{ x.link }}"
+                        class="{% if active %}active{% endif %}">
                         {{ x.name }}
                     </a>
                     {% if forloop.last == false %}

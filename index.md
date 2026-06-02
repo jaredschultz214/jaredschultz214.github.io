@@ -84,7 +84,7 @@ B.Sc in Computer engineering @ University of Minnesota <br>
 		</a>
 		<div id="img1" class="lightbox">
 		    <a href="#">
-		        <img src="media/IMG_20240812_110136930_HDR.jpg">
+		        <img src="media/DSCN6634.jpg">
 		    </a>
 		</div>
         <div class="profile-doc">

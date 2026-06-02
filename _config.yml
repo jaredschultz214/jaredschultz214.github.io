@@ -1,6 +1,6 @@
 title: Jared Schultz
-url: "https://JaredSchultz.com"
-baseurl: "/JaredSchultz"
+url: "https://jaredschultz214.github.io"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/JaredSchultz/"
+   link: "/"
  - name: "Research and Papers"
    link: "research-and-papers"
  - name: "Projects"

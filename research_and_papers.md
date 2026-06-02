@@ -70,7 +70,7 @@
             </div>
             <em>
                 Pin-Hao Cheng*, Ronak Narkhede*, Matt Rajala*, Jared Schultz*, Nathan Harbinson, Samuel Fisher, Nitish Poojari, Sharva Khandagale, Alex Berg, Keara Berlin, Adam Imdieke, Michael Feldkamp, Scott Frushour, Kaustubh Patil, Mark Ashby, William Peine, Sean L. Moen, Andrew Grande, Karthik Desingh, Timothy M. Kowalewski.
-                * Contributed equally, listed alphabetically by last name
+                <br>* Contributed equally, listed alphabetically by last name
             </em>
             <br>
             [<a href="https://drive.google.com/file/d/1dCSkEQtBogViqxwVy3-YNULPSXtdwxK_/view?usp=sharing">PDF</a>] 

@@ -30,7 +30,7 @@
 <table>
     <tr>
         <td width="40%" valign="top">
-            <img src="media/placeholder picture.png" width="100%">
+            <img src="media/testbench.png" width="100%">
         </td>
         <td width="60%" valign="top">
             <div style="display: flex; justify-content: space-between; align-items: baseline;">
@@ -45,8 +45,7 @@
                 Jared Schultz, Pin-Hao Cheng, Matt Rajala, Timothy M. Kowalewski
             </em>
             <br>
-            <a href="https://drive.google.com/file/d/1rFqz86vC7T5juxTHVmXYmkzRNkfE1MBO/view?usp=sharing">
-                <i class="fa fa-github" aria-hidden="true"></i> [PDF] 
+            <a href="https://drive.google.com/file/d/1rFqz86vC7T5juxTHVmXYmkzRNkfE1MBO/view?usp=sharing">[PDF] 
             </a>
                  DOI:
             <br><br>
@@ -76,8 +75,7 @@
                 * Contributed equally, listed alphabetically by last name
             </em>
             <br>
-            <a href="https://drive.google.com/file/d/1dCSkEQtBogViqxwVy3-YNULPSXtdwxK_/view?usp=sharing">
-                <i class="fa fa-github" aria-hidden="true"></i> [PDF] 
+            <a href="https://drive.google.com/file/d/1dCSkEQtBogViqxwVy3-YNULPSXtdwxK_/view?usp=sharing">[PDF] 
             </a>
                  DOI:
             <br><br>

@@ -161,7 +161,7 @@ ul {
             <li>Collaborated with neurosurgeons, engineering faculty, and Medtronic leadership to define system requirements for a cost-efficient robot able to perform remote thrombectomy.</li>
             <li>Integrated mechanical, embedded, and AI-driven subsystems into a unified robotic architecture for remote guidewire navigation. Live Demo: 
             <a href="https://telebot.cse.umn.edu">
-                https://telebot.cse.umn.edu 
+                telebot.cse.umn.edu 
             </a></li>
             <li> Built an automated test platform using an ATI Nano17 6-DOF force/torque sensor and a stepper-actuated test rig to characterize prototype performance, accelerate wear, and identify failure modes to promote device longevity.</li>
             <li>Designed, manufactured, and validated multiple robot prototypes using custom SLA printed gears, hypoid transmissions, and differential mechanisms, using experimental results to drive design improvements.</li>

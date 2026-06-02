@@ -134,7 +134,7 @@ ul {
         </tr>
         <tr>
             <td>Mechanical</td>
-            <td>SolidWorks, RoboDK, SLA/FDM 3D Printing, Mill, Lathe, Waterjet</td>
+            <td>SolidWorks, RoboDK, SLA/FDM 3D Printing, Mill, Lathe, Waterjet (Maxiem)</td>
         </tr>
         <tr>
             <td>Electrical</td>

@@ -57,7 +57,7 @@ B.Sc in Computer engineering @ University of Minnesota <br>
     <td style="width: 30%; vertical-align: top; border: none; text-align: center;">
 		<a href="#img1">
 		    <img class="thumbnail"
-		         src="media/DSCN9723.jpg"
+		         src="media/DSCN9723_lowQ.jpg"
 		         style="width:100%; height:auto; border-radius:10%;">
 		</a>
 		<div id="img1" class="lightbox">
@@ -68,7 +68,7 @@ B.Sc in Computer engineering @ University of Minnesota <br>
         <br><br>
 		<a href="#img2">
 		    <img class="thumbnail"
-		         src="media/IMG_20240812_110136930_HDR.jpg"
+		         src="media/IMG_20240812_110136930_HDR_lowQ.jpg"
 		         style="width:100%; height:auto; border-radius:10%;">
 		</a>
 		<div id="img2" class="lightbox">
@@ -79,7 +79,7 @@ B.Sc in Computer engineering @ University of Minnesota <br>
         <br><br>
 		<a href="#img3">
 		    <img class="thumbnail"
-		         src="media/DSCN6634.jpg"
+		         src="media/DSCN6634.jpg_lowQ"
 		         style="width:100%; height:auto; border-radius:10%;">
 		</a>
 		<div id="img3" class="lightbox">

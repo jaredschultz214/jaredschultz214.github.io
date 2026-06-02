@@ -92,7 +92,7 @@ B.Sc in Computer engineering @ University of Minnesota <br>
             <a href="mailto:schu4422@umn.edu">
                 <i class="fa fa-envelope" aria-hidden="true"></i> schu4422@umn.edu</a> <br>
             <a href="mailto:jaredschultz214@gmail.com">
-                <i class="fa fa-envelope" aria-hidden="true"></i> jaredschultz214@gmail.com</a> <br>
+                <!--<i class="fa fa-envelope" aria-hidden="true"></i>--> jaredschultz214@gmail.com</a> <br>
             <a href="https://github.com/jaredschultz214">
                 <i class="fa fa-github" aria-hidden="true"></i> Github </a> <br>
             <a href="https://www.linkedin.com/in/jared-schultz-190aa3222/">

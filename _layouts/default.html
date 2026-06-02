@@ -65,11 +65,7 @@
             {% for x in site.nav %}
                 <li class="alignable pull-left nav-list">
                     {% assign active = false %}
-                    {% if x.link == "/" %}
-                        {% if page.url == "/" %}
-                            {% assign active = true %}
-                        {% endif %}
-                    {% elsif page.url == x.link %}
+                    {% if page.url == x.link %}
                         {% assign active = true %}
                     {% endif %}
                     <a href="{{ site.baseurl }}{{ x.link }}"

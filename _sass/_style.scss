@@ -39,12 +39,22 @@ hr {
 }
 .navbar {
     padding: 50px 0 50px 0;
+    position: sticky;
+    top: 0;
+    background: white;
+    z-index: 1000;
 }
 .navbar-ul {
     display: inline-block;
     margin: 0;
     padding: 5px 0 5px 0;
     margin-left: 20px;
+}
+.navbar a.active {
+    font-weight: 600;
+    color: black;
+    border-bottom: 2px solid $accent;
+    padding-bottom: 2px;
 }
 .nav-list {
     list-style-type: none;

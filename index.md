@@ -79,7 +79,7 @@ B.Sc in Computer engineering @ University of Minnesota <br>
         <br><br>
 		<a href="#img3">
 		    <img class="thumbnail"
-		         src="media/DSCN6634.jpg_lowQ"
+		         src="media/DSCN6634_lowQ.jpg"
 		         style="width:100%; height:auto; border-radius:10%;">
 		</a>
 		<div id="img3" class="lightbox">

@@ -191,12 +191,14 @@ ul {
     <div class="entry">
         <strong>Friction Characterization of a Roller-Drive Mechanism for Robotic Motion Control of Guidewires</strong><br>
         Jared Schultz, Pin-Hao Cheng, Matt Rajala, Timothy M. Kowalewski<br>
+        [<a href="https://drive.google.com/file/d/1rFqz86vC7T5juxTHVmXYmkzRNkfE1MBO/view?usp=sharing">PDF</a>]
         Design of Medical Devices Conference (DMD 2026)
     </div>
     <div class="entry">
         <strong>Towards Remote Thrombectomy with Telerobotically-Driven Guidewires</strong><br>
         Pin-Hao Cheng*, Ronak Narkhede*, Matt Rajala*, Jared Schultz*, Nathan Harbinson, Samuel Fisher, Nitish Poojari, Sharva Khandagale, Alex Berg, Keara Berlin, Adam Imdieke, Michael Feldkamp, Scott Frushour, Kaustubh Patil, Mark Ashby, William Peine, Sean L. Moen, Andrew Grande, Karthik Desingh, Timothy M. Kowalewski.<br>
         * Contributed equally, listed alphabetically by last name<br>
+        [<a href="https://drive.google.com/file/d/1dCSkEQtBogViqxwVy3-YNULPSXtdwxK_/view?usp=sharing">PDF</a>] 
         Design of Medical Devices Conference (DMD 2026)
     </div>
 </div>

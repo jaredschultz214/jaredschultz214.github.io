@@ -45,9 +45,7 @@
                 Jared Schultz, Pin-Hao Cheng, Matt Rajala, Timothy M. Kowalewski
             </em>
             <br>
-            <a href="https://drive.google.com/file/d/1rFqz86vC7T5juxTHVmXYmkzRNkfE1MBO/view?usp=sharing">[PDF] 
-            </a>
-                 DOI:
+            [<a href="https://drive.google.com/file/d/1rFqz86vC7T5juxTHVmXYmkzRNkfE1MBO/view?usp=sharing">PDF</a>]
             <br><br>
         </td>
     </tr>
@@ -75,9 +73,7 @@
                 * Contributed equally, listed alphabetically by last name
             </em>
             <br>
-            <a href="https://drive.google.com/file/d/1dCSkEQtBogViqxwVy3-YNULPSXtdwxK_/view?usp=sharing">[PDF] 
-            </a>
-                 DOI:
+            [<a href="https://drive.google.com/file/d/1dCSkEQtBogViqxwVy3-YNULPSXtdwxK_/view?usp=sharing">PDF</a>] 
             <br><br>
         </td>
     </tr>

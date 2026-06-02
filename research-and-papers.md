@@ -45,7 +45,7 @@
                 Jared Schultz, Pin-Hao Cheng, Matt Rajala, Timothy M. Kowalewski
             </em>
             <br>
-                description
+                DOI:
             <br><br>
             <a href="a">
                 paper
@@ -60,7 +60,7 @@
 <table>
     <tr>
         <td width="40%" valign="top">
-            <img src="media/placeholder picture.png" width="100%">
+            <img src="media/alpha.png" width="100%">
         </td>
         <td width="60%" valign="top">
             <div style="display: flex; justify-content: space-between; align-items: baseline;">
@@ -72,10 +72,11 @@
                 </span>
             </div>
             <em>
-                Pin-Hao Cheng, Ronak Narkhede, Matt Rajala, Jared Schultz, Nathan Harbinson, Samuel Fisher, Nitish Poojari, Sharva Khandagale, Alex Berg, Keara Berlin, Adam Imdieke, Michael Feldkamp, Scott Frushour, Kaustubh Patil, Mark Ashby, William Peine, Sean L. Moen, Andrew Grande, Karthik Desingh, Timothy M. Kowalewski.
+                Pin-Hao Cheng*, Ronak Narkhede*, Matt Rajala*, Jared Schultz*, Nathan Harbinson, Samuel Fisher, Nitish Poojari, Sharva Khandagale, Alex Berg, Keara Berlin, Adam Imdieke, Michael Feldkamp, Scott Frushour, Kaustubh Patil, Mark Ashby, William Peine, Sean L. Moen, Andrew Grande, Karthik Desingh, Timothy M. Kowalewski.
+                * Contributed equally, listed alphabetically by last name
             </em>
             <br><br>
-                description
+                DOI:
             <br>
             <a href="a">
                 paper

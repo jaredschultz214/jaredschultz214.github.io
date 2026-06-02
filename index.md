@@ -44,7 +44,7 @@ B.Sc in Computer engineering @ University of Minnesota <br>
       <div style="text-align: left;">
         I am a robotics engineer and graduate researcher in the Medical Robotics and Devices Lab at the University of Minnesota, where I work with <a href="https://cse.umn.edu/me/tim-kowalewski">Professor Timothy Kowalewski</a>. My current research focuses on robotic propulsion systems for neurovascular catheters with the goal of enabling accessible telerobotic stroke thrombectomy. 
         <br><br>
-        My role in the lab centers on the mechanical development and validation of robotic systems. I am responsible for the design, manufacturing, and assembly of major mechanical subsystems, including work involving patent-pending technology. I also develop and execute mechanical validation testing to characterize force and torque capabilities and ensure reliable system performance under realistic operating conditions. More detail about my research and my papers can be found <a href="https://jaredschultz214.github.io/research_and_papers">here</a>.
+        My role in the lab centers on the mechanical development and validation of robotic systems. I am responsible for the design, manufacturing, and assembly of major mechanical subsystems, including work involving patent-pending technology. I also develop and execute mechanical validation testing to characterize force and torque capabilities and ensure reliable system performance under realistic operating conditions. More detail about my research and papers can be found <a href="https://jaredschultz214.github.io/research_and_papers">here</a>.
         <br><br>
         Outside of medical robotics, I have broad interests across robotics as a whole, including computer vision, feedback and control systems, autonomous systems, and mechanical robot design. You can find some of my projects <a href="https://jaredschultz214.github.io/projects">here</a>. I have wanted to work in robotics for as long as I can remember, starting with building projects from Legos and surplus motors with my dad, continuing through Boy Scouts robotics merit badge, and eventually joining my high school robotics team as a freshman. Today, I continue pursuing that passion through both research and competitive robotics.
         <br><br>
@@ -61,7 +61,7 @@ B.Sc in Computer engineering @ University of Minnesota <br>
 		         style="width:100%; height:auto; border-radius:10%;">
 		</a>
 		<div id="img1" class="lightbox">
-		    <a href="#">
+		    <a href="">
 		        <img src="media/DSCN9723.jpg">
 		    </a>
 		</div>
@@ -72,7 +72,7 @@ B.Sc in Computer engineering @ University of Minnesota <br>
 		         style="width:100%; height:auto; border-radius:10%;">
 		</a>
 		<div id="img2" class="lightbox">
-		    <a href="#">
+		    <a href="">
 		        <img src="media/IMG_20240812_110136930_HDR.jpg">
 		    </a>
 		</div>
@@ -83,7 +83,7 @@ B.Sc in Computer engineering @ University of Minnesota <br>
 		         style="width:100%; height:auto; border-radius:10%;">
 		</a>
 		<div id="img3" class="lightbox">
-		    <a href="#">
+		    <a href="">
 		        <img src="media/DSCN6634.jpg">
 		    </a>
 		</div>

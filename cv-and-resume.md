@@ -1,8 +1,5 @@
 ---
 layout: default
----
----
-layout: default
 title: Resume
 ---
 
@@ -79,16 +76,6 @@ ul {
 }
 </style>
 
-<a href="media/Jared Schultz 1 page resume.pdf" target="_blank">
-    <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
-    One Page Resume
-</a><br>
-
-<a href="media/Jared Schultz 2 page resume.pdf" target="_blank">
-    <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
-    Two Page Resume
-</a><br>
-
 <div class="resume-container">
 
 <div class="resume-header">
@@ -98,8 +85,13 @@ ul {
         <a href="mailto:jaredschultz214@gmail.com">jaredschultz214@gmail.com</a> |
         763-732-2783
         <br>
-        <a href="media/resume.pdf">
-            <i class="fa fa-file-pdf-o"></i> Download PDF Resume
+        <a href="media/Jared Schultz 1 page resume.pdf" target="_blank">
+            <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+            One Page Resume PDF 
+        </a>
+        <a href="media/Jared Schultz 2 page resume.pdf" target="_blank">
+            <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+            Two Page Resume PDF
         </a>
     </div>
 </div>
@@ -148,7 +140,7 @@ ul {
             <td>Circuit Analysis, Altium Designer, Vivado FPGA</td>
         </tr>
         <tr>
-            <td>Tools</td>
+            <td>Tools and Platforms</td>
             <td>Git, Jira, Confluence, Linux, NumPy, PyTorch, TensorFlow</td>
         </tr>
     </table>
@@ -158,18 +150,21 @@ ul {
     <h2>Experience</h2>
     <div class="entry">
         <div class="entry-header">
-            <span>University of Minnesota & Medtronic</span>
+            <span>University of Minnesota & Medtronic Inc.</span>
             <span>Jun 2025 – May 2026</span>
         </div>
         <div class="entry-subheader">
             Mechatronic Lead – Autonomous Telerobotic Surgical Stroke Robot
         </div>
         <ul>
-            <li>Collaborated with neurosurgeons, faculty, and Medtronic leadership to define requirements for a remote thrombectomy robot.</li>
-            <li>Integrated mechanical, embedded, and AI-driven subsystems into a unified robotic architecture.</li>
-            <li>Developed automated force/torque characterization systems using ATI Nano17 sensors.</li>
-            <li>Designed and validated multiple robot prototypes using SLA-printed gears, hypoid transmissions, and differential mechanisms.</li>
-            <li>Developed motor-control architecture enabling precise control of a 3-DOF rolling-contact mechanism.</li>
+            <li>Collaborated with neurosurgeons, engineering faculty, and Medtronic leadership to define system requirements for a cost-efficient robot able to perform remote thrombectomy.</li>
+            <li>Integrated mechanical, embedded, and AI-driven subsystems into a unified robotic architecture for remote guidewire navigation. Live Demo: 
+            <a href="https://telebot.cse.umn.edu">
+                https://telebot.cse.umn.edu 
+            </a></li>
+            <li> Built an automated test platform using an ATI Nano17 6-DOF force/torque sensor and a stepper-actuated test rig to characterize prototype performance, accelerate wear, and identify failure modes to promote device longevity.</li>
+            <li>Designed, manufactured, and validated multiple robot prototypes using custom SLA printed gears, hypoid transmissions, and differential mechanisms, using experimental results to drive design improvements.</li>
+            <li>Designed and implemented a motor control architecture that decouples degrees of freedom and enables precise speed and position control of the 3-DOF rolling contact mechanism.</li>
         </ul>
     </div>
     <div class="entry">
@@ -181,10 +176,11 @@ ul {
             Software Engineering Intern
         </div>
         <ul>
-            <li>Migrated testing infrastructure from Bash to Python.</li>
-            <li>Developed validation and system-level test procedures.</li>
-            <li>Investigated defects and generated detailed bug reports.</li>
-            <li>Contributed to documentation and development workflows using GitLab, Jira, and Confluence.</li>
+            <li>Translated the existing test environment from Bash into Python to improve readability and package support.</li>
+            <li>Traced bugs through layers of code and wrote tickets for unresolved issues with detailed reproduction steps.</li>
+            <li>Anticipated future requirements and implemented features into the test environment to promote code longevity.</li>
+            <li>Determined software requirements and developed system tests to validate the state of the project.</li>
+            <li>Contributed to professional documentation through Confluence, understood team workflow through Jira, and streamlined version control through GitLab.</li>
         </ul>
     </div>
 </div>
@@ -193,10 +189,13 @@ ul {
     <h2>Publications</h2>
     <div class="entry">
         <strong>Friction Characterization of a Roller-Drive Mechanism for Robotic Motion Control of Guidewires</strong><br>
+        Jared Schultz, Pin-Hao Cheng, Matt Rajala, Timothy M. Kowalewski<br>
         Design of Medical Devices Conference (DMD 2026)
     </div>
     <div class="entry">
         <strong>Towards Remote Thrombectomy with Telerobotically-Driven Guidewires</strong><br>
+        Pin-Hao Cheng*, Ronak Narkhede*, Matt Rajala*, Jared Schultz*, Nathan Harbinson, Samuel Fisher, Nitish Poojari, Sharva Khandagale, Alex Berg, Keara Berlin, Adam Imdieke, Michael Feldkamp, Scott Frushour, Kaustubh Patil, Mark Ashby, William Peine, Sean L. Moen, Andrew Grande, Karthik Desingh, Timothy M. Kowalewski.<br>
+        * Contributed equally, listed alphabetically by last name<br>
         Design of Medical Devices Conference (DMD 2026)
     </div>
 </div>
@@ -244,6 +243,19 @@ ul {
     </div>
     <div class="entry">
         <div class="entry-header">
+            <span>Triangle Fraternity MN Chapter</span>
+            <span>2022 – 2026</span>
+        </div>
+        <div class="entry-subheader">
+            Vice President of Internal Affairs, Project Manager, Ritual Keeper
+        </div>
+        <ul>
+            <li>Worked directly with contractors and house inspectors to identify and prioritize necessary and feasible changes.</li>
+            <li>Organized and carried out project work days for large house repairs and improvements.</li>
+        </ul>
+    </div>
+    <div class="entry">
+        <div class="entry-header">
             <span>FIRST Robotics</span>
             <span>2018 – 2020</span>
         </div>
@@ -253,6 +265,18 @@ ul {
         <ul>
             <li>Managed software development and mentored new programmers.</li>
             <li>Developed subsystem software, testing procedures, and integration workflows.</li>
+        </ul>
+    </div>
+    <div class="entry">
+        <div class="entry-header">
+            <span>Boy Scouts America</span>
+            <span>2015 - 2018</span>
+        </div>
+        <div class="entry-subheader">
+            Eagle Scout, Senior Patrol Leader, Troop Guide
+        </div>
+        <ul>
+            <li>Managed multiple teams of over 30 volunteers. My Eagle project totaled over 300 hours of volunteer work. </li>
         </ul>
     </div>
 </div>

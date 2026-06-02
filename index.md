@@ -42,7 +42,7 @@ B.Sc in Computer engineering @ University of Minnesota <br>
   <tr>
     <td style="width: 70%; vertical-align: top; border: none; padding-right: 20px;">
       <div style="text-align: left;">
-        I am a robotics engineer and graduate researcher in the Medical Robotics and Devices Lab at the University of Minnesota, where I work with <a href="https://cse.umn.edu/me/tim-kowalewski">Professor Timothy Kowalewski</a>. My current research focuses on robotic propulsion systems for neurovascular catheters with the goal of enabling accessible telerobotic stroke thrombectomy. What draws me to medical robotics is the combination of meaningful human impact, difficult multidisciplinary engineering problems, and the pace of innovation at the cutting edge of the field. Growing up with a mother who worked as a nurse, I have always wanted to contribute to technologies that can directly improve patient outcomes and access to care.
+        I am a robotics engineer and graduate researcher in the Medical Robotics and Devices Lab at the University of Minnesota, where I work with <a href="https://cse.umn.edu/me/tim-kowalewski">Professor Timothy Kowalewski</a>. My current research focuses on robotic propulsion systems for neurovascular catheters with the goal of enabling accessible telerobotic stroke thrombectomy. 
         <br><br>
         My role in the lab centers on the mechanical development and validation of robotic systems. I am responsible for the design, manufacturing, and assembly of major mechanical subsystems, including work involving patent-pending technology. I also develop and execute mechanical validation testing to characterize force and torque capabilities and ensure reliable system performance under realistic operating conditions. More detail about my research and my papers can be found <a href="https://jaredschultz214.github.io/research_and_papers">here</a>.
         <br><br>
@@ -50,7 +50,7 @@ B.Sc in Computer engineering @ University of Minnesota <br>
         <br><br>
         Much of my time outside of research is spent in the Northstar Club Robotics lab, where I helped found the team and previously served as both Mechanical Lead and Computer Vision Lead. Our competition robots compete in a fast-paced first-person robotic combat environment similar to airsoft or paintball. Our team placed 9th out of 24 teams in both years we have competed so far. These projects have strengthened my ability to rapidly prototype and iterate, anticipate failure cases before fabrication, and work effectively under aggressive deadlines and technical pressure.
         <br><br>
-        Outside of engineering, I enjoy biking, gardening, pottery, pickleball, camping, and spending time outdoors. Time outdoors, namely camping and wilderness travel, has remained important to me since my time in Boy Scouts. For me, being outdoors provides an opportunity to disconnect from constant expectations, reset creatively, and slow down long enough to reflect and recharge. 
+        Outside of engineering, I enjoy biking, gardening, pottery, pickleball, camping, and spending time outdoors. Time outdoors, namely camping and wilderness travel, have remained important to me since my time in Boy Scouts. For me, being outdoors provides an opportunity to disconnect from constant expectations, reset creatively, and slow down long enough to reflect and recharge. 
         <br><br>
       </div>
     </td>

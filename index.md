@@ -71,18 +71,18 @@ B.Sc in Computer engineering @ University of Minnesota <br>
 		         src="media/IMG_20240812_110136930_HDR.jpg"
 		         style="width:100%; height:auto; border-radius:10%;">
 		</a>
-		<div id="img1" class="lightbox">
+		<div id="img2" class="lightbox">
 		    <a href="#">
 		        <img src="media/IMG_20240812_110136930_HDR.jpg">
 		    </a>
 		</div>
         <br><br>
-		<a href="#img2">
+		<a href="#img3">
 		    <img class="thumbnail"
 		         src="media/DSCN6634.jpg"
 		         style="width:100%; height:auto; border-radius:10%;">
 		</a>
-		<div id="img1" class="lightbox">
+		<div id="img3" class="lightbox">
 		    <a href="#">
 		        <img src="media/DSCN6634.jpg">
 		    </a>

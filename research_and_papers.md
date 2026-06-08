@@ -45,7 +45,7 @@
                 Jared Schultz, Pin-Hao Cheng, Matt Rajala, Timothy M. Kowalewski
             </em>
             <br>
-            [<a href="https://drive.google.com/file/d/1rFqz86vC7T5juxTHVmXYmkzRNkfE1MBO/view?usp=sharing">PDF</a>]
+            [<a href="https://drive.google.com/file/d/1rFqz86vC7T5juxTHVmXYmkzRNkfE1MBO/view?usp=sharing">PDF</a>]  <a href="https://doi.org/10.1115/DMD2026-1086">doi.org/10.1115/DMD2026-1086</a>.
             <br><br>
         </td>
     </tr>
@@ -73,7 +73,7 @@
                 <br>* Contributed equally, listed alphabetically by last name
             </em>
             <br>
-            [<a href="https://drive.google.com/file/d/1dCSkEQtBogViqxwVy3-YNULPSXtdwxK_/view?usp=sharing">PDF</a>] 
+            [<a href="https://drive.google.com/file/d/1dCSkEQtBogViqxwVy3-YNULPSXtdwxK_/view?usp=sharing">PDF</a>] <a href="https://doi.org/10.1115/DMD2026-1079">doi.org/10.1115/DMD2026-1079</a>.
             <br><br>
         </td>
     </tr>

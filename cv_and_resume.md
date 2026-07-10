@@ -87,12 +87,12 @@ ul {
         <br>
         <a href="media/Jared Schultz 1 page resume.pdf" target="_blank">
             <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
-            One Page Resume PDF 
+            <h1>One Page Resume PDF </h1>
         </a>
          | 
         <a href="media/Jared Schultz 2 page resume.pdf" target="_blank">
             <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
-            Two Page Resume PDF
+            <h1>Two Page Resume PDF </h1>
         </a>
     </div>
 </div>

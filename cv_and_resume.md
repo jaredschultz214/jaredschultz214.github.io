@@ -24,6 +24,17 @@ title: Resume
     font-size: 0.95em;
 }
 
+.pdf-link {
+    font-size: 1.3em;
+    font-weight: bold;
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.pdf-link i {
+    font-size: 1.1em;
+}
 .section {
     margin-top: 30px;
 }
@@ -85,15 +96,17 @@ ul {
         <a href="mailto:jaredschultz214@gmail.com">jaredschultz214@gmail.com</a> |
         763-732-2783
         <br>
+    </div>
+    <div class = "pdf-link">
         <a href="media/Jared Schultz 1 page resume.pdf" target="_blank">
-            <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
-            <h1>One Page Resume PDF </h1>
-        </a>
-         | 
+                <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+                <span>One Page Resume PDF </span>
+            </a>
+            | 
         <a href="media/Jared Schultz 2 page resume.pdf" target="_blank">
-            <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
-            <h1>Two Page Resume PDF </h1>
-        </a>
+                <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+                <span>Two Page Resume PDF </span>
+            </a>
     </div>
 </div>
 

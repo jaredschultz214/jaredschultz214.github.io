@@ -152,6 +152,7 @@ layout: default
         <td width="40%" valign="top">
             <img src="media/Group_picture_by_the_colorado_sign_1.1.1.jpg" width="100%">
             <img src="media/IMG_3277.jpg" width="100%">
+            <img src="media/320.jpg" width="100%">
         </td>
         <td width="60%" valign="top">
             <div style="display: flex; justify-content: space-between; align-items: baseline;">

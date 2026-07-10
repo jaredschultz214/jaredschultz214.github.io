@@ -46,11 +46,11 @@ B.Sc in Computer engineering @ University of Minnesota <br>
         <br><br>
         My role in the lab centers on the mechanical development and validation of robotic systems. I am responsible for the design, manufacturing, and assembly of major mechanical subsystems, including work involving patent-pending technology. I also develop and execute mechanical validation testing to characterize force and torque capabilities and ensure reliable system performance under realistic operating conditions. More detail about my research and papers can be found <a href="https://jaredschultz214.github.io/research_and_papers">here</a>.
         <br><br>
-        Outside of medical robotics, I have broad interests across robotics as a whole, including computer vision, feedback and control systems, autonomous systems, and mechanical robot design. You can find some of my projects <a href="https://jaredschultz214.github.io/projects">here</a>. I have wanted to work in robotics for as long as I can remember, starting with building projects from Legos and surplus motors with my dad, continuing through Boy Scouts robotics merit badge, and eventually joining my high school robotics team as a freshman. Today, I continue pursuing that passion through both research and competitive robotics.
+        I have broad interests across robotics as a whole, including computer vision, feedback and control systems, autonomous systems, and mechanical robot design. You can find some of my projects <a href="https://jaredschultz214.github.io/projects">here</a>. I have wanted to work in robotics for as long as I can remember, starting with building projects from Legos and surplus motors with my dad, continuing through the Boy Scouts robotics merit badge, and eventually joining my high school robotics team as a freshman. Today, I continue pursuing that passion through both research and competitive robotics.
         <br><br>
-        Much of my time outside of research is spent in the Northstar Club Robotics lab, where I helped found the team and previously served as both Mechanical Lead and Computer Vision Lead. Our competition robots compete in a fast-paced first-person robotic combat environment similar to airsoft or paintball. Our team placed 9th out of 24 teams in both years we have competed so far. These projects have strengthened my ability to rapidly prototype and iterate, anticipate failure cases before fabrication, and work effectively under aggressive deadlines and technical pressure.
+        Much of my time outside of research is spent in the Northstar Club Robotics lab, where I helped found the team and previously served as both Mechanical Lead and Computer Vision Lead. Placing 6th out of 24 teams this last year, our competition robots compete in a fast-paced first-person robotic combat environment similar to airsoft or paintball. These projects have strengthened my ability to rapidly prototype and iterate, anticipate failure cases before fabrication, and work effectively under aggressive deadlines and technical pressure.
         <br><br>
-        Outside of engineering, I enjoy biking, gardening, pottery, pickleball, camping, and spending time outdoors. Time outdoors, namely camping and wilderness travel, have remained important to me since my time in Boy Scouts. For me, being outdoors provides an opportunity to disconnect from constant expectations, reset creatively, and slow down long enough to reflect and recharge. 
+        Outside of engineering, I enjoy biking, gardening, pottery, pickleball, camping, and spending time outdoors. Time outdoors, namely camping and wilderness travel, has remained important to me since my time in Boy Scouts. For me, being outdoors provides an opportunity to disconnect from constant expectations, reset creatively, and slow down long enough to reflect and recharge. 
         <br><br>
       </div>
     </td>
@@ -85,6 +85,17 @@ B.Sc in Computer engineering @ University of Minnesota <br>
 		<div id="img3" class="lightbox">
 		    <a href="">
 		        <img src="media/DSCN6634.jpg">
+		    </a>
+		</div>
+		        <br><br>
+		<a href="#img4">
+		    <img class="thumbnail"
+		         src="media/319.jpg"
+		         style="width:100%; height:auto; border-radius:10%;">
+		</a>
+		<div id="img4" class="lightbox">
+		    <a href="">
+		        <img src="media/319.jpg">
 		    </a>
 		</div>
         <div class="profile-doc">

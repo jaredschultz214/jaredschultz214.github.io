@@ -107,6 +107,11 @@ ul {
                 <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
                 <span>Two Page Resume PDF </span>
             </a>
+            | 
+        <a href="media/Final Unofficial Transcript.pdf" target="_blank">
+                <i class="fa fa-file-pdf-o" aria-hidden="true"></i>
+                <span>Unofficial Transcript </span>
+            </a>
     </div>
 </div>
 
